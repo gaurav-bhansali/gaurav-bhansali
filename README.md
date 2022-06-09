@@ -23,6 +23,5 @@
 ### Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Bhansali-blue)](https://www.linkedin.com/in/gaurav-bhansali-807464193/)
-[![Mail](https://img.shields.io/badge/Mail-gauravbhansali00%40gmail.com-red)](gauravbhansali00@gmail.com)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-bhansali&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaurav Bhansali's Github Stats"> -->
