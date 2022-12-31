@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<!--- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> --->  
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="style : 200px; height : 200px" /> -   -->
    
 - 🔭 Myself Gaurav Bhansali , Pursuing Btech in ECE at NIT Silchar (2019-23)
 - 💡 I'm interested in learning new technolgies, competitive programming
